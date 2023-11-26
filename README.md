@@ -1,4 +1,4 @@
-# Portfoli Website Clone
+# Portfolio Website Clone
 
 This website is a portfolio clone built for GDSC recruitment. To get starter:
 
